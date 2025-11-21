@@ -5,3 +5,7 @@ PyMuPDF==1.22.5
 reportlab==4.0.0
 streamlit==1.26.0
 numpy==1.24.3
+[general]
+# আপনার লোকাল পিসিতে যে Python ভার্সন কাজ করছে, সেটি দিন (যেমন 3.10)
+# Streamlit সাধারণত 3.8 থেকে 3.11 সমর্থন করে।
+pythonVersion = "3.9"
